@@ -20,7 +20,7 @@ h2 {
 }
 
 figcaption {
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-style: italic;
   text-align: center;
 }
@@ -37,7 +37,6 @@ a:hover {
 ol {
   font-family: "Patua One";
 }
-
 .hadro {
   font-size: 1.1rem;
 }
