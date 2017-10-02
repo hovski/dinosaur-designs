@@ -16,8 +16,18 @@ h2 {
   color: #5d8432;
   text-transform: uppercase;
 }
+
 figcaption {
   font-size: 0.9rem;
   font-style: italic;
   text-align: center;
+}
+
+a,
+a:link {
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
 }
