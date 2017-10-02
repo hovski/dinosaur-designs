@@ -21,7 +21,7 @@ h2 {
 }
 
 figcaption {
-  font-size: .6rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
@@ -43,5 +43,5 @@ ol {
 }
 
 .hadro {
-  font-size: 1.2rem;
+  font-size: 1.025rem;
 }
