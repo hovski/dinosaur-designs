@@ -10,11 +10,13 @@ img {
 h1 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: Patua One;
 }
 
 h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: Patua One;
 }
 
 figcaption {
@@ -30,4 +32,8 @@ a:link {
 
 a:hover {
   color: #b42885;
+}
+
+ol {
+  font-family: Patua One;
 }
