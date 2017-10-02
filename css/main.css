@@ -10,17 +10,17 @@ img {
 h1 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: Patua One;
+  font-family: "Patua One";
 }
 
 h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: Patua One;
+  font-family: "Patua One";
 }
 
 figcaption {
-  font-size: 0.9rem;
+  font-size: .9rem;
   font-style: italic;
   text-align: center;
 }
@@ -35,8 +35,9 @@ a:hover {
 }
 
 ol {
-  font-family: Patua One;
+  font-family: "Patua One";
 }
+
 .hadro {
   font-size: 1.1rem;
 }
